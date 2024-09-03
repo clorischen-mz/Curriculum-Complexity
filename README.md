@@ -1,5 +1,5 @@
 # A Cross-Major Comparison on Curricular Complexity and Study Abroad Participation
-[DOI: 10.18260/1-2--47706](https://peer.asee.org/47706)
+View full paper: [DOI: 10.18260/1-2--47706](https://peer.asee.org/47706)
 
 ## Goal
 To explore the relationship between curricular complexity and study abroad participation across 48 majors at Purdue University. To accomplish this purpose, we will address the following research questions:
